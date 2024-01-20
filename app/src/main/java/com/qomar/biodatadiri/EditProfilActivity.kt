@@ -12,7 +12,7 @@ class EditProfilActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         editBinding = ActivityEditProfilBinding.inflate(layoutInflater)
         setContentView(editBinding.root)
-        //menerima data yang dikirimkan dari ProfilActivity.kt
+        //menerima data yang dikirimkan-dari ProfilActivity.kt
         val intentData = intent.extras
         val namaUser = intentData?.getString("nama")
         //set edittext dengan data yang dikirimkan tadi
