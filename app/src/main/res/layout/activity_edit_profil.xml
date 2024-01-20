@@ -12,7 +12,7 @@
         android:layout_height="wrap_content"
         android:layout_margin="16dp"
         android:gravity="center_horizontal"
-        android:text="Edit Profil"/>
+        android:text="Edit Nama Profil"/>
     <EditText
         android:id="@+id/edtProfilName"
         android:layout_width="match_parent"

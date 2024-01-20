@@ -5,6 +5,7 @@ import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import com.qomar.biodatadiri.databinding.ActivityEditProfilBinding
+
 class EditProfilActivity : AppCompatActivity() {
     private lateinit var editBinding : ActivityEditProfilBinding
     override fun onCreate(savedInstanceState: Bundle?) {

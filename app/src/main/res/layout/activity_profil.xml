@@ -133,6 +133,12 @@
                 android:layout_margin="16dp"
                 android:text="EDIT NAMA"/>
             <Button
+                android:id="@+id/btnEditAll"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="16dp"
+                android:text="EDIT ALL"/>
+            <Button
                 android:id="@+id/btnCall"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
