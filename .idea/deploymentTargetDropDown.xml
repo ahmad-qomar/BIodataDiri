@@ -7,12 +7,12 @@
         <deviceKey>
           <Key>
             <type value="VIRTUAL_DEVICE_PATH" />
-            <value value="C:\Users\ASUS VIVOBOOK\.android\avd\Pixel_2_API_34.avd" />
+            <value value="C:\Users\ASUS VIVOBOOK\.android\avd\Pixel_API_34.avd" />
           </Key>
         </deviceKey>
       </Target>
     </targetSelectedWithDropDown>
-    <timeTargetWasSelectedWithDropDown value="2023-12-01T12:46:52.148624200Z" />
+    <timeTargetWasSelectedWithDropDown value="2024-01-21T02:35:48.008977400Z" />
     <runningDeviceTargetsSelectedWithDialog>
       <Target>
         <type value="RUNNING_DEVICE_TARGET" />

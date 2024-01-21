@@ -65,7 +65,7 @@ class ProfilActivity : AppCompatActivity() {
         val telpUser = profilBinding.txtTelp.text.toString()
         val alamatUser = profilBinding.txtAddress.text.toString()
 
-        // Kirim semua data ke EditAllActivity
+        // Kirim semua data ke EditAllActivity#
         intent.apply {
             putExtra("nama", namaUser)
             putExtra("gender", genderUser)
