@@ -27,7 +27,7 @@ class EditAllActivity : AppCompatActivity() {
         val genderArray = resources.getStringArray(R.array.jenis_kelamin)
         val genderAdapter = ArrayAdapter(this, android.R.layout.simple_spinner_item, genderArray)
         editBinding.spinnerGender.adapter = genderAdapter
-        // Cek indeks jenis kelamin yang sesuai dan atur spinner #
+        // Cek indeks jenis kelamin yang sesuai dan atur spinner#
         val genderIndex = genderArray.indexOf(genderUser)
         if (genderIndex != -1) {
             editBinding.spinnerGender.setSelection(genderIndex)
